@@ -1,13 +1,18 @@
 body {
-    background: greenyellow;
+    background: yellowgreen;
 }
 
 h1 {
     text-align: center;
-    color: blue;
+
 }
-a {
-    color: blue;
+
+footer {
     text-align: center;
-    
 }
+
+footer a {
+    margin: 10px;
+
+}
+
